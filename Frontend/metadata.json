@@ -1,0 +1,7 @@
+{
+  "name": "VogueAI Mockup Studio",
+  "description": "A professional-grade fashion mockup generator that places your garments on AI-generated models with customizable attributes using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
